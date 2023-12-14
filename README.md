@@ -2,8 +2,7 @@ This project is an RC car that has a digital screen to display things such as te
 This project utilizes the SparkFun JetBot Ai kit v3.0. which acts as the main component for the RC car. This project only includes the basic cardinal direction movement and camera of the jetbot, but there are more
 librarys within the jetbot like object collision and object following that you can implement. This project also uses a raspberry pi with a 7 inch capacitive touch screen from Eviciv and 2 RGB LEDs from Keyestudio.
 There are 3 scripts for this project, the LED light bulb script called bulb.py and the soundboard script to play sounds called Horn.py. Both of which you run via the raspberry pi. The last script is for
-the movement of the robot and activiting the camera, which is called Car.py. Car.py will need to be run from the jupiter notebook lab that is associated with your robot's IP adress. Below are steps for setting up each
-indivdual compenent of this project. There are also plenty of documentaiton online regarding all of this if you need it.
+the movement of the robot and activiting the camera, which is called Car.py. Car.py will need to be run from the jupiter notebook lab that is associated with your robot's IP adress. Below are steps for setting up each indivdual compenent of this project. There are also plenty of documentaiton online regarding all of this if you need it.
 
 
 
