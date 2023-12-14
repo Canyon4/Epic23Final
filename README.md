@@ -40,3 +40,4 @@ Setting up the LED lights:
 
 I used keyestudio LED lights by connecting them to the raspberrypi gpio pins with female-to-female jumper cables. Then, I taped the LEDs to the back of the screen to hold them up. The code to use the LEDs is uploaded as bulb.py.
 
+To complete the setup of the robot simply mount the LED screen to the top of the jetbot. We used a piece of cardboard to act as a layer for the screen to sit on. Configure the battery packs for both the jetbot and the screen so that there isnt a lot of weight on the ball joint. Turn on both devices and ssh into your raspberry pi. Once in your pi run two terminals to run the bulb.py file and the soundboard.py file. Then connect to the jetbot using its IP address and import the car.py file in juypeter notebook. Run the car.py file and have fun!
