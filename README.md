@@ -32,9 +32,11 @@ or differnet motors for this kit. Its also important to note that the SSD comes 
 
 
 Setting up the 7 in display:
+
 Using the the screws and holes on the back of the screen, I mounted the raspberry to the back of the screen and used a display, ribbon to HDMI, cable to connect them. I then connected the display power cable to a USB port on the raspberry pi and
 a power bank to the raspberry pi.
 
 Setting up the LED lights:
+
 I used keyestudio LED lights by connecting them to the raspberrypi gpio pins with female-to-female jumper cables. Then, I taped the LEDs to the back of the screen to hold them up. The code to use the LEDs is uploaded as bulb.py.
 
